@@ -10,5 +10,6 @@ A dataset of 5 spherical phantoms can be found in folder "Data". The parcellatio
 One test phantom, with only one fiber connetcing a pair of region is also available. This could be used as a reference to deal with flipping (in case) caused by tractography algorithm. 
 
 The datset provided is simulated with b-value=2000 s/mm2 and provided gradients. Rest of the parameters value can be found in the paper.
+Connectivity matrices and node parcellation (atlas.nii.gz) for mapping connetcome is also provided
 
 
