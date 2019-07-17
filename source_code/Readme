@@ -1,3 +1,5 @@
 This scripts produces a spherical pphnatom of 60 nodes. Node parcellation is provided with the code
 
 Use "demo.m" for generating phantom
+
+Use "atlas.nii.gz" for mapping connetcome
