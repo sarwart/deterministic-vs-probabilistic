@@ -3,6 +3,8 @@ Generation of spherical phantom for evaluation of tractography algorithms
 
 "Sarwar, T., Ramamohanarao, K. and Zalesky, A., 2019. Mapping connectomes with diffusion mri: deterministic or probabilistic tractography?. Magnetic resonance in medicine, 81(2), pp.1368-1384."
 
+![alt text](https://github.com/sarwart/Phantoms/blob/master/Image.png)
+
 The study evaluated the state-of-the-art tractography algorithms using simulated diffusion-weighted magnetic resonance imaging (dMRI) dataset. 
 The details of simulation can be in paper "https://onlinelibrary.wiley.com/doi/10.1002/mrm.27471"
 
