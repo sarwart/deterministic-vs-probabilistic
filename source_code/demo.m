@@ -15,7 +15,7 @@ clear;
 N_min=1; N_max=100;
 N=100; %size of the image NxNxN
 grad;%diffusion-weighted gradients
-b=3000;%b-value
+b=2000;%b-value
 snr=10;%SNR for the dMRI
 voxel=2;%voxel size of dMRI data
 
