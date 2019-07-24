@@ -1,4 +1,8 @@
-
+<!--
+  Title: Spherical dMRI Phantoms
+  Description: Mapping connectomes with diffusion MRI: deterministic or probabilistic tractography?
+  Author: sarwart
+  -->
 # **Generating Spherical Phantom**
 
 <pre>
