@@ -1,9 +1,11 @@
 
 # **Generating Spherical Phantom**
 
-<code>Tabinda Sarwar, Kotagiri Ramamohanarao and Andrew Zalesky  
-  Mapping connectomes with diffusion MRI: deterministic or probabilistic tractography?
-  Magnetic Resonance in Medicine 2019;81:1368–1384</code>
+<pre>
+Tabinda Sarwar, Kotagiri Ramamohanarao and Andrew Zalesky. 
+Mapping connectomes with diffusion MRI: deterministic or probabilistic tractography? 
+Magnetic Resonance in Medicine 2019;81:1368–1384
+</pre>
 
 ![alt text](https://github.com/sarwart/Phantoms/blob/master/Image.png)
 
